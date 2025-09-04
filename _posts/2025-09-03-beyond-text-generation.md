@@ -139,8 +139,8 @@ if __name__ == "__main__":
 
 Below is an example of input and output you should obtain showing flooded areas during the 2024 flood in Valencia, Spain.
 
-![image](assets/figures/terratorch/valencia-orig.png)
-![image](assets/figures/terratorch/valencia-pred.png)
+![image](assets/figures/terratorch/valencia-orig.jpeg)
+![image](assets/figures/terratorch/valencia-pred.jpeg)
 <!-- <p align="center">
 <picture>
 <img src="assets/figures/terratorch/valencia-orig.png" width="50%">
