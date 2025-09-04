@@ -139,10 +139,12 @@ if __name__ == "__main__":
 
 Below is an example of input and output you should obtain showing flooded areas during the 2024 flood in Valencia, Spain.
 
-<p align="center">
+![image](assets/figures/terratorch/valencia-orig.png)
+![image](assets/figures/terratorch/valencia-pred.png)
+<!-- <p align="center">
 <picture>
-<img src="/assets/figures/llama31/perf_llama3.png" width="50%">
-</picture>
+<img src="assets/figures/terratorch/valencia-orig.png" width="50%">
+</picture> -->
 
 ## What’s Next
 We’re excited to see how the community uses IOProcessor to push the boundaries of what’s possible with vLLM. Whether you're building a vision-language system, a structured reasoning agent, or a hybrid model pipeline, IOProcessor gives you the tools to serve it—all in one place.
